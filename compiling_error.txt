@@ -1,0 +1,7 @@
+C:\Users\jbosw\AppData\Local\Temp\ccsxFArs.o:Game.cpp:(.text+0x74): undefined reference to `Tetromino::determine_start_position()'
+C:\Users\jbosw\AppData\Local\Temp\ccsxFArs.o:Game.cpp:(.text+0x7e): undefined reference to `Tetromino::plotCurrentShape()'
+C:\Users\jbosw\AppData\Local\Temp\ccsxFArs.o:Game.cpp:(.text+0x181): undefined reference to `Tetromino::determine_start_position()'
+C:\Users\jbosw\AppData\Local\Temp\ccsxFArs.o:Game.cpp:(.text+0x18b): undefined reference to `Tetromino::get_shape_number()'
+C:\Users\jbosw\AppData\Local\Temp\ccsxFArs.o:Game.cpp:(.text+0x428): undefined reference to `Tetromino::get_x1()'
+C:\Users\jbosw\AppData\Local\Temp\ccsxFArs.o:Game.cpp:(.text+0x434): undefined reference to `Tetromino::get_y1()'
+collect2.exe: error: ld returned 1 exit status
